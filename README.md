@@ -28,7 +28,7 @@ Louise's success rate will rise if the goal amount is decreased.
 ### Limitations
 The given dataset is not latest (2011-2017). In 2016 and 2017, amount of campaigns greatly increased. Having more up-to-date will help us give more accurate predictions and help solidify conclusions.
 
-United States of America is a huge and diverse nation. Additional geographic breakdowns may provide Louise with additional information that will help her make a decision.
+United States of America is a huge and diverse nation. Additional geographic breakdowns may provide Louise with information that will help her make a decision.
 
 A qualitative aspect of the play's theme is another limitation. Are certain topics more appealing than others? This particular aspect is ignored by this analysis.
 ### Areas to Explore
