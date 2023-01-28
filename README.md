@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-For our fictitious client "Louise," this project looks into a dataset of kickstarter campaigns usimg excel to help her understand what might make a campaign more successful.
+For our fictitious client "Louise," this project looks into a dataset of kickstarter campaigns using excel to help her understand what might make a campaign more successful.
 ### Purpose
 "Louise" wants to learn how to increase the likelihood of success when she launches a kickstarter campaign for her new play "Fever." We will examine and draw some preliminary conclusions regarding the potential effects of launch data and the establishment of monitary goals on the success of campaigns for theatrical plays.
 ## Analysis and Challenges
